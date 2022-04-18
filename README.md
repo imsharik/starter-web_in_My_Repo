@@ -6,4 +6,6 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-Now on develop branch
+Now on develop branch.
+
+Changes on dev branch.
